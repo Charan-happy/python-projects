@@ -2,14 +2,16 @@ Password Authentication using python
 --------------------------------------
 
 Password Authentication is the process of checking the identity of a user.<br>Almost every online platform today make sure that they only give access to the real user which can only possible by asking for a password while a user wants to login to the account.
-
 <br>
+
 ### What is password Authentication System ?
+
 <br>
 >> A password Authentication System is a system that is used for the identification of a user, think of it like a login screen that you see while logging into your instagram account.<br>
 >> It asks for your email or a username and then it asks for your password. If you have entered correct password then it verifies you as the real user.
 
 <br>
+
 ### Password Authentication Using Python
 
 <br>
