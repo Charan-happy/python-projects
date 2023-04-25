@@ -8,3 +8,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/89054489/221432518-9150025d-4f77-46d6-9911-fd982788e3d8.png)
+
+>> clone the repository into your local system using git bash
+
+`git clone <repository url>`
